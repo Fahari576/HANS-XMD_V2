@@ -51,7 +51,6 @@ global.anti91 = false //auto block +91
 global.autoswview = true //auto view status/story
 global.autoreact = true // This is For Auto React 
 global.welcome = true // For Welcome massage groups
-global.autosavecontact= true//auto save WhatsApp contact
 
 
 global.wagc = "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31";
