@@ -50,7 +50,7 @@ global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.autoreact = true // This is For Auto React 
-global.welcome = false // For Welcome massage groups
+global.welcome = true // For Welcome massage groups
 
 
 global.wagc = "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31";
