@@ -42,7 +42,7 @@ global.prefa = ['','!','.','#','/']
 
 //bot settings
 global.autolikestatus = true //For auto react Status Random
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = true //auto read messages
